@@ -37,3 +37,5 @@ After the editor opens, scroll to the bottom of the file. Add the following line
 `@reboot python3 /home/pi/seafloorusv/usv_hydro_v3.py`
 
 # Diagram Connection
+
+![Diagram Connection](URL_de_la_imagen)  
