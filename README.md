@@ -38,4 +38,4 @@ After the editor opens, scroll to the bottom of the file. Add the following line
 
 # Diagram Connection
 
-![Diagram Connection](URL_de_la_imagen)  
+![Diagram Connection](usv_connection.png)  
